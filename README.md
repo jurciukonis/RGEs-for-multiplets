@@ -1,10 +1,12 @@
 # Renormalization group equations for the SM with added multiplets
 
-Auxiliary files for "On the addition of a large scalar multiplet to the Standard Model" with computed RGEs.
+Auxiliary files for the paper "On the addition of a large scalar multiplet to the Standard Model" with computed one-loop RGEs.
 
-- [SARAH](http://sarah.hepforge.org/) model files are available in folder ["src"](https://github.com/jurciukonis/RGEs_for_multiplets/tree/main/src).
+- [SARAH](http://sarah.hepforge.org/) model files are available in folder ["SM+Multiplet"](https://github.com/jurciukonis/RGEs_for_multiplets/tree/main/SM+Multiplet).
 
-- The computed RGEs are available in folder ["RGEs"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/RGEs) together with Mathematica notebook with examples ["RGEs/multiplets.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/RGEs).
+- The computed RGEs are available in folder ["Output"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Output).
+
+- The Mathematica notebook with examples ["RGEs_for_multiplets.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/RGEs_for_multiplets.nb).
 
 - For more information about the models and obtained results see refs. [[1](https://arxiv.org/abs/2404.07897)] and [[2](https://arxiv.org/abs/2406.01628)].
 
