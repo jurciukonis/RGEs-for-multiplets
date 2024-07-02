@@ -2,11 +2,11 @@
 
 Auxiliary files for the paper "On the addition of a large scalar multiplet to the Standard Model" with computed one-loop RGEs.
 
-- [SARAH](http://sarah.hepforge.org/) model files are available in folder ["SM+Multiplet"](https://github.com/jurciukonis/RGEs_for_multiplets/tree/main/SM+Multiplet).
+- [SARAH](http://sarah.hepforge.org/) model files are available in the folder ["SM+Multiplet"](https://github.com/jurciukonis/RGEs_for_multiplets/tree/main/SM+Multiplet).
 
-- The computed RGEs are available in folder ["Output"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Output).
+- The computed RGEs are available in the folder ["Output"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Output).
 
-- The Mathematica notebook with examples ["RGEs_for_multiplets.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/RGEs_for_multiplets.nb).
+- The Mathematica notebook with examples is ["RGEs_for_multiplets.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/RGEs_for_multiplets.nb).
 
 - For more information about the models and obtained results see refs. [[1](https://arxiv.org/abs/2404.07897)] and [[2](https://arxiv.org/abs/2406.01628)].
 
