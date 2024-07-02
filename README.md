@@ -14,4 +14,4 @@ Auxiliary files for the paper "On the addition of a large scalar multiplet to th
 
 [[1](https://arxiv.org/abs/2404.07897)] D. Jurčiukonis and L. Lavoura, On the addition of a large scalar multiplet to the Standard Model, [arXiv:2404.07897](https://arxiv.org/abs/2404.07897).
 
-[[2](https://arxiv.org/abs/2406.01628)] D. Jurčiukonis and L. Lavoura, On the bounded-from-below conditions for the extension of the SM through a scalar quadruplet, [e-Print: [arXiv:2406.01628](https://arxiv.org/abs/2406.01628)].
+[[2](https://arxiv.org/abs/2406.01628)] D. Jurčiukonis and L. Lavoura, On the bounded-from-below conditions for the extension of the SM through a scalar quadruplet, [arXiv:2406.01628](https://arxiv.org/abs/2406.01628).
