@@ -8,6 +8,8 @@ Auxiliary files for the paper "On the addition of a large scalar multiplet to th
 
 - The Mathematica notebook with examples is ["RGEs_for_multiplets.nb"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/RGEs_for_multiplets.nb).
 
+- The definitions of the multiplets and the expressions of the RGEs are given in ["Definitions_and_RGEs.pdf"](https://github.com/jurciukonis/RGEs_for_multiplets/blob/main/Definitions_and_RGEs.pdf).
+
 - For more information about the models and obtained results see refs. [[1](https://arxiv.org/abs/2404.07897)] and [[2](https://arxiv.org/abs/2406.01628)].
 
 **If you use files from the repository for a publication, please cite these references:**
